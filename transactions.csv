@@ -1,0 +1,21 @@
+date,vendor,amount,description,employee_email,payment_method
+2025-07-01,Zoom,14.99,Video call,alex@gmail.com,Brex Card ****1234
+2025-08-01,Zoom,14.99,Video call,sam@gmail.com,Brex Card ****9876
+2025-07-05,Slack,49.00,Team chat,jane@gmail.com,Brex Card ****1234
+2025-07-10,AWS,120.00,Cloud services,mike@gmail.com,Brex Card ****9876
+2025-07-15,Dominos,12.75,Team lunch,alex@gmail.com,Brex Card ****1234
+2025-07-01,Zoom,14.99,Video call,alex@gmail.com,Brex Card ****1234
+2025-08-01,Zoom,14.99,Video call,sam@gmail.com,Brex Card ****9876
+2025-09-01,Zoom,14.99,Video call,john@gmail.com,Brex Card ****1234
+2025-07-05,Slack,49.00,Team chat,jane@gmail.com,Brex Card ****1234
+2025-08-05,Slack,49.00,Team chat,john@gmail.com,Brex Card ****9876
+2025-07-10,AWS,120.00,Cloud services,mike@gmail.com,Brex Card ****9876
+2025-08-10,AWS,120.00,Cloud services,mike@gmail.com,Brex Card ****9876
+2025-09-10,AWS,120.00,Cloud services,mike@gmail.com,Brex Card ****9876
+2025-07-15,Canva,19.99,Design tool,sam@gmail.com,Brex Card ****1234
+2025-08-15,Canva,19.99,Design tool,alex@gmail.com,Brex Card ****9876
+2025-07-20,Dominos,12.75,Team lunch,alex@gmail.com,Brex Card ****1234
+2025-07-25,Amazon,250.00,Office supplies,jane@gmail.com,Brex Card ****9876
+2025-08-25,Amazon,250.00,Office supplies,john@gmail.com,Brex Card ****9876
+2025-07-30,Netflix,15.99,Entertainment,alex@gmail.com,Brex Card ****1234
+2025-08-30,Netflix,15.99,Entertainment,alex@gmail.com,Brex Card ****1234
