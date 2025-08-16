@@ -11,10 +11,10 @@ Saves results to a CSV file
 Input CSV Format
 Your CSV should look like this:
 date,vendor,amount,description,employee_email,payment_method
-date → YYYY-MM-DD
-vendor → Name of the service (e.g., Zoom, Slack)
-amount → Transaction amount
-employee_email → Employee who paid
+date  YYYY-MM-DD
+vendor  Name of the service (e.g., Zoom, Slack)
+amount  Transaction amount
+employee_email  Employee who paid
 How to Use
 Put transactions.csv in the project folder
 Run the script:
